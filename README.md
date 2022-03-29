@@ -1,1 +1,1 @@
-# symmetrical-parakeet
+# Course works
