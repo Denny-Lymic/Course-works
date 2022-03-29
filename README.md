@@ -1,1 +1,1 @@
-# Course works
+# Repository for course works 
