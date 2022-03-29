@@ -1,0 +1,13 @@
+гроші 13000
+FoodExpenses
+витрати 2500
+ліміт 3000
+Utilities
+витрати 1400
+ліміт 2500
+ClothesExpenses
+витрати 3023
+ліміт 5000
+EntertainmentExpenses
+витрати 2000
+ліміт 3000
